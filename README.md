@@ -1,2 +1,2 @@
 # github-webhooks
-How to make webhooks discord+github
+How to make webhooks Discord+GitHub
